@@ -9,3 +9,5 @@ Create a machine learning model to predict whether a client will subscribe to a 
 * Exploratory Data Analysis (EDA)
 * Machine learning models analysis
 * Test data submission
+## Reference
+The dataset used for this project was obtained from Kaggle platform: Kaggle · Playground Prediction Competition. (2025). Binary Classification with a Bank Dataset [Data set]. Kaggle. https://www.kaggle.com/competitions/playground-series-s5e8/data
